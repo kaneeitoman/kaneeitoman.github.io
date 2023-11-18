@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="haiku.css">
+  <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>エイトオフィス</title>
+    <style>
+      body {
+        text-align: center;
+      }
+      table {
+        margin: auto;
+      }
+    </style>
+</head>
+<div class="header">
+  <div class="container"></div>
+  <div class="header-logo">エイトオフィス</div>
+  <div class="header-list">
+    <ul>
+      <li>会社情報</li>
+      <li>エイトマンのプロフォール</li>
+      <li>お知らせ</li>
+      <li>お問い合わせ</li>
+    </ul>
+  </div>
+</div>
+<body>
+<body>
+  <font size="6"><h3 style="text-align:center">エイトマン</h3></font><br>
+    <img src="IMG_0319.jpg" width = "100" height ="100">
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<title>基本的な表の作成</title>
+</head>
+<body>
+ <table border="1">
+    <tr>
+      <th>生年月日</th>
+      <td>2009年5月1日</td>
+    </tr>
+    <tr>
+      <th>出身地</th>
+      <td>岐阜県</td>
+    </tr>
+    <tr>
+      <th>血液型</th>
+      <td>AB型（Rh-）</td>
+    </tr>
+    <tr>
+      <th>MBTI</th>
+      <td>INTP</td>
+    </tr>
+    <tr>
+      <th>趣味</th>
+      <td>パソコンでなんか作ること</td>
+    </tr>
+  </table>
+</body>
+</html>
+<a href="https://www.youtube.com/channel/UCGOTaQl0wQrGSs2zwITDmMg">
+<button>YouTube
+</button></a>
+<a href="https://twitter.com/eiman0501">
+<button>X（旧:Twitter）
+</button></a>
+<a href="https://www.tiktok.com/@eito0501">
+<button>TikTok
+</button></a>
